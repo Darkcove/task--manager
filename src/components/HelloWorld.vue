@@ -6,7 +6,7 @@
     >This is a sample task manager application developed by Darkchove, built with MongoDB , Express.JS, Vue.JS and Node.JS.</p>
     <hr class="my-4">
     <p>Click below to begin managing tasks for users.</p>
-    <a class="btn btn-success btn-lg" href="#" role="button">View Tasks</a>
+    <router-link class="btn btn-success btn-lg" to="/tasks">View Tasks</router-link>
   </div>
 </template>
 
