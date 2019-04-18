@@ -76,3 +76,11 @@ div#custom-home {
   background-color: #3da978 !important;
 
 }
+
+form.custom-form {
+  max-width: 40rem;
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+}
